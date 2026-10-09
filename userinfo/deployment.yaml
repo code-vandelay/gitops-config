@@ -20,7 +20,7 @@ spec:
       containers:
       - name: userinfo
 
-        image: 216989139078.dkr.ecr.us-east-1.amazonaws.com/test/userinfo:v1.0.0
+        image: 216989139078.dkr.ecr.us-east-1.amazonaws.com/test/userinfo:v2.0.0
 
         imagePullPolicy: Always
 
